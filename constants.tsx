@@ -67,12 +67,6 @@ export const CONTENT: SiteContent = {
       message: "Avant de te connaître je ne savais pas que c’était possible d’être adorablement folle. PS: j’aime bien 😉 Merci d’être notre super héroïne préférée. Gotham peut dormir tranquille 😌 À la plus mignonne des boss ladiiiies 👑 Love you Queen ✨",
       relation: "Amie",
       image: "/enam.jpg"
-    },
-    {
-      name: "Sophie",
-      message: "Ton sourire illumine nos vies. Joyeux anniversaire !",
-      relation: "Cousine",
-      image: "/photo_11.jpeg"
     }
   ],
 

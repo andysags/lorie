@@ -76,7 +76,7 @@ function App() {
           <Reveal direction="right" delay={0.2}>
             <div className="glass-card p-8 md:p-12 border-l-2 border-l-gold-500/50">
               <Sparkles className="text-gold-400 mb-6" size={32} />
-              <h2 className="font-serif text-4xl md:text-5xl text-gold-100 mb-8">20 ans </h2>
+              <h2 className="font-serif text-4xl md:text-5xl text-gold-100 mb-8"> </h2>
               <p className="font-sans text-cream/70 text-lg leading-relaxed font-light">{CONTENT.bioText}</p>
             </div>
           </Reveal>
@@ -206,7 +206,7 @@ function App() {
               onClick={() => confetti({ particleCount: 150, spread: 80, origin: { y: 0.8 }, colors: ['#fbbf24', '#ffffff'] })}
               className="px-10 py-4 bg-gradient-to-r from-gold-600 to-gold-400 text-midnight-950 font-bold uppercase text-sm tracking-widest shadow-lg hover:brightness-110 transition-all rounded-sm"
             >
-              Célébrer Élise
+              Célébrer Lorie
             </button>
           </div>
           <div className="mt-24 text-white/10 text-xs uppercase tracking-[0.5em]">L'histoire continue • {new Date().getFullYear()}</div>
